@@ -4,9 +4,11 @@
 - [Athifal] (https://github.com/athifal) Lets go...
 - [Mayank Pal] (https://github.com/MayankP2100) Here starts my open-source journey!!
 - [Magdiel GV] (https://github.com/Magdiel-GVdz) I was here xd
-- [Yoosuf Aathil] (https://github.com/YoosufAathil) Hey There ! , I am here 
+- [Yoosuf Aathil] (https://github.com/YoosufAathil) Hey There ! , I am here
+- אטקלךךבליגךלי
 - [Michael Jay](https://github.com/MJujh)
 - [Joumaico 🇵🇭](https://github.com/joumaico)
+- ק
 - [Jamie Quinlan](https://github.com/StringsIV)
 - [Shobhit Aggarwal](https://github.com/Shobhit0109)
 - [Yashavsi Sharma] (https://github.com/Yashasvi213)
@@ -15,6 +17,7 @@
 - gouree gurjar 123
 - [Akash Jain] (https://github.com/aka8code) Here I am.
 - [AtharvaSail11] (https://github.com/AtharvaSail11)
+- [Ester Parsser] (https://github.com/EstiParser/open-source)
 - [Pratik Gurjar] (https://github.com/pratikgurjar)
 - [Saquib Ansari](https://github.com/md-saquib)
 - [Stephen Blevins](https://github.com/sblevins-dev)
